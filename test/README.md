@@ -1,1 +1,0 @@
-test for application HBNB
