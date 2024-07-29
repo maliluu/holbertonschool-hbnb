@@ -21,7 +21,7 @@ ns.add_namespace(api_amenity, path='/amenities')
 ns.add_namespace(api_country, path='/countries')
 ns.add_namespace(api_city, path='/cities')
 
-#modication for docker
+# Modication for docker
 import os
 
 if __name__ == "__main__":
